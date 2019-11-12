@@ -1,0 +1,11 @@
+E:\08-11-2019_Assignment2\bin\Debug\netcoreapp3.0\08-11-2019_Assignment2.exe
+E:\08-11-2019_Assignment2\bin\Debug\netcoreapp3.0\08-11-2019_Assignment2.deps.json
+E:\08-11-2019_Assignment2\bin\Debug\netcoreapp3.0\08-11-2019_Assignment2.runtimeconfig.json
+E:\08-11-2019_Assignment2\bin\Debug\netcoreapp3.0\08-11-2019_Assignment2.runtimeconfig.dev.json
+E:\08-11-2019_Assignment2\bin\Debug\netcoreapp3.0\08-11-2019_Assignment2.dll
+E:\08-11-2019_Assignment2\bin\Debug\netcoreapp3.0\08-11-2019_Assignment2.pdb
+E:\08-11-2019_Assignment2\obj\Debug\netcoreapp3.0\08-11-2019_Assignment2.csprojAssemblyReference.cache
+E:\08-11-2019_Assignment2\obj\Debug\netcoreapp3.0\08-11-2019_Assignment2.AssemblyInfoInputs.cache
+E:\08-11-2019_Assignment2\obj\Debug\netcoreapp3.0\08-11-2019_Assignment2.AssemblyInfo.cs
+E:\08-11-2019_Assignment2\obj\Debug\netcoreapp3.0\08-11-2019_Assignment2.dll
+E:\08-11-2019_Assignment2\obj\Debug\netcoreapp3.0\08-11-2019_Assignment2.pdb
